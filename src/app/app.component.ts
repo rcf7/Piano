@@ -15,6 +15,7 @@ aplicarSonido(numero : Number); void {
   audio.src = '../assets/sonidos/Sonido' + numero + '.mp3',
   audio.load(),
   audio.play(), 
+  /* vamos peludoooo! */
 }   
 
 
