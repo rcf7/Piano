@@ -15,7 +15,7 @@ aplicarSonido(numero: number) {
   audio.src = ('./../assets/sonidos/Sonido' + numero + '.mp3');
   audio.load();
   audio.play();
-  /* vamos peludoooo! */
+  
 }   
 
 
